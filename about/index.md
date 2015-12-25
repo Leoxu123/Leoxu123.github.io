@@ -13,9 +13,7 @@ Hello! Welcome to my blog! Hope it hasn't waste your time.
 
 I am Jian Xu and studying for my master degree at USTC now. I feel hot for many things, watching anime(Japan comic), playing basketball and computer games, painting(a skill I want to grasp), and reading.
 
-My research field now include:
-
-## What HPSTR brings to the table:
+##My research field now include:
 
 * Natural Language Processing(mainly focus on word, text representation).
 * Machine Learning(mainly focus on Deeping Learning).
