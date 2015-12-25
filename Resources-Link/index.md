@@ -4,7 +4,7 @@ title: Resouces Link
 description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
 image:
   background: link.png
-  credit: dargadgetz
+  credit: 
   creditlink: https://en.wikipedia.org/wiki/Cross-link
 share: true
 ---
