@@ -1,6 +1,6 @@
-title:            Site Title
+title:            Jian Xu' World
 description:      Describe your website here.
-disqus_shortname: hpstrtheme
+disqus_shortname: jianxumecom
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -9,10 +9,10 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jian Xu
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Students at USTC"
+  email:          jianxu1@mail.ustc.edu.cn
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -56,7 +56,8 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  #use_coderay: true
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers: nil
